@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Vinod Kumar R
 
- I'm a Front-end Web Developer who focuses on crafting
-clean and user-friendly experiences. Actively ready to join in a great
-lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.
+I'm a React/Front-end Web Developer who focuses on crafting clean and user-friendly experiences. Actively ready to join a great lively team of a good start-up to adapt me to any situation and the environment with ease and perform the best.
 
 ### Languages and Tools:
 <div style="padding-left:20px">
